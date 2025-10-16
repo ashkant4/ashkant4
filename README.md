@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashkan Agvan
 
-<!--
-**ashkant4/ashkant4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-End Developer** passionate about building responsive and user-friendly web applications.  
+⚡ Skilled in **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS**.  
+🚀 Always learning new technologies and improving my coding skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML / CSS / Bootstrap  
+- JavaScript / ES6  
+- Tailwind CSS  
+- Responsive Web Design  
+- Git / GitHub
+
+---
+
+### 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/ashkant4) | 💬 [Telegram](https://t.me/WebDevIr)
+
+---
+
+### 📌 Featured Projects
+- **Login Page** – A responsive login page built with HTML, CSS, Bootstrap  
+- **Portfolio Website** – Showcasing web development projects  
+- **Ehsan Store Website** – Online store frontend using Tailwind CSS
