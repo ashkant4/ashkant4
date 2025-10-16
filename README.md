@@ -21,6 +21,8 @@
 ---
 
 ### 📌 Featured Projects
-- **Login Page** – A responsive login page built with HTML, CSS, Bootstrap  
-- **Portfolio Website** – Showcasing web development projects  
-- **Ehsan Store Website** – Online store frontend using Tailwind CSS
+- **E-commerce Websites** – Developed responsive online store websites using HTML, CSS, Bootstrap, JavaScript, and Tailwind CSS  
+- **Online School Management Platforms** – Built school management systems with interactive UI and responsive design  
+- **Validation / Verification Websites** – Developed web applications for verification and validation processes  
+- **Portfolio Websites** – Designed personal and professional portfolio websites with modern front-end technologies
+
