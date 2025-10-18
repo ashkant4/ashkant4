@@ -41,6 +41,7 @@ English Level: <b>B2+</b><br/>
 | 🛒 **E-Commerce Website** | Responsive online store built with HTML, CSS, JS, Bootstrap, and Tailwind CSS | — |
 | 🏫 **School Management Platform** | Interactive UI for managing school data and dashboards | — |
 | ✅ **Verification Website** | App for validation & verification processes | — |
+| 💰 **iExpense** | Financial management app for tracking expenses | [View](https://ashkant4.github.io/iExpense/) |
 | 💼 **Portfolio Website (EN)** | Personal portfolio showcasing projects | [View](https://ashkant4.github.io/Portfolio/) |
 | 🌦️ **Weather App** | Real-time weather forecast app | [View](https://ashkant4.github.io/Weather-App/) |
 | 🌐 **Portfolio (FA)** | Persian version of my portfolio | [View](https://ashkant4.github.io/Portfolio-FA/) |
