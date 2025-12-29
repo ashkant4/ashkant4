@@ -59,6 +59,10 @@ I focus on:
 | **Portfolio (FA)** | Persian portfolio version | [Live](https://ashkant4.github.io/Portfolio-FA/) |
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+npm+run+build;Compiling+modules...;Minifying+assets...;Deploying+to+production...;Status%3A+SUCCESS+%E2%9C%85;Still+online+%E2%80%A2%E2%80%A2%E2%80%A2" />
+</p>
+---
 
 ## 📊 GitHub Performance
 
