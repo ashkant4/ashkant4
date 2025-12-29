@@ -1,16 +1,11 @@
-<!-- ===================== -->
+<!-- =============================== -->
 <!--  GitHub Profile README -->
-<!--  Ashkan Agvan (ashkant4) -->
-<!-- ===================== -->
+<!--  Ashkan Agvan | ashkant4 -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ashkan+Agvan;Front-End+Developer+with+UI+Focus;Building+Fast%2C+Clean+Web+Experiences;Code.+Design.+Performance." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ashkan+Agvan;Front-End+Developer+with+UI+Focus;Building+Fast+and+Clean+Web+Interfaces;Code.+Design.+Performance." />
 </p>
-
----
-
-<h1 align="center">🚀 Ashkan Agvan</h1>
-<h3 align="center">Front-End Developer | UI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashkant4&label=Profile%20Views&color=00E5FF&style=flat-square" />
@@ -18,20 +13,31 @@
 
 ---
 
+<h1 align="center">🚀 Ashkan Agvan</h1>
+<h3 align="center">Front-End Developer | UI Enthusiast | Problem Solver</h3>
+
+---
+
 ## 🧠 About Me
 
 <p>
-I’m <strong>Ashkan Agvan</strong>, a detail-oriented <strong>Front-End Developer</strong> who enjoys turning ideas into clean, responsive, and high-performance web interfaces.<br><br>
+I’m <strong>Ashkan Agvan</strong>, a passionate <strong>Front-End Developer</strong> focused on building modern, responsive, and high-performance web applications.<br><br>
 
-I focus on:
+I enjoy transforming ideas into clean user interfaces and meaningful user experiences.
+My work mindset is simple:
+</p>
+
 <ul>
-  <li>⚡ Fast & optimized UI</li>
-  <li>🎯 User-centered design</li>
-  <li>🧩 Clean, maintainable code</li>
+  <li>⚡ Performance matters</li>
+  <li>🎯 UX comes first</li>
+  <li>🧩 Clean code scales</li>
 </ul>
 
-<strong>Tech mindset:</strong> I don’t just write code — I solve problems.<br>
-<strong>English level:</strong> B2+ (Comfortable in technical communication)
+<p>
+<strong>Technologies:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS<br>
+<strong>Back-end familiarity:</strong> PHP & MySQL<br>
+<strong>Tools:</strong> Git, GitHub, cPanel<br>
+<strong>English level:</strong> B2+ (comfortable in technical communication)
 </p>
 
 ---
@@ -39,9 +45,7 @@ I focus on:
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,figma&perline=5" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,figma&perline=5" />
 </p>
 
 ---
@@ -50,17 +54,17 @@ I focus on:
 
 | 🚀 Project | 💡 Description | 🔗 Demo |
 |-----------|---------------|--------|
-| **E-Commerce Platform** | Fully responsive store UI with modern layout & UX | — |
-| **School Management System** | Dashboard-based UI for academic data management | — |
+| **E-Commerce Platform** | Responsive online store UI with modern layout | — |
+| **School Management System** | Dashboard-based interface for academic data | — |
 | **Verification System** | Secure validation & verification workflows | — |
 | **iExpense** | Expense tracking web app | [Live](https://ashkant4.github.io/iExpense/) |
 | **Portfolio (EN)** | Personal portfolio website | [Live](https://ashkant4.github.io/Portfolio/) |
-| **Weather App** | Real-time weather forecast app | [Live](https://ashkant4.github.io/Weather-App/) |
-| **Portfolio (FA)** | Persian portfolio version | [Live](https://ashkant4.github.io/Portfolio-FA/) |
+| **Weather App** | Real-time weather forecast application | [Live](https://ashkant4.github.io/Weather-App/) |
+| **Portfolio (FA)** | Persian version of my portfolio | [Live](https://ashkant4.github.io/Portfolio-FA/) |
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashkant4&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,13 +93,23 @@ I focus on:
 
 ---
 
-## 💬 Personal Motto
+## 💬 Motto
 
 <p align="center">
-  <em>"Code is not just about working — it's about working beautifully."</em>
+  <em>"Code is not just about making things work — it's about making them work beautifully."</em>
 </p>
 
 ---
+
+<!-- ===== Animated Footer (Final Punch) ===== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+clean+interfaces...;Optimizing+performance...;Solving+real+problems...;Always+learning...;Still+coding+%E2%80%A2%E2%80%A2%E2%80%A2" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:1A1B27&height=120&section=footer"/>
+</p>
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories.
