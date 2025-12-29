@@ -104,3 +104,12 @@ I focus on:
 <p align="center">
 ⭐ If you like my work, consider starring my repositories.
 </p>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+clean+interfaces...;Optimizing+performance...;Solving+real+problems...;Always+learning...;Still+coding+%E2%80%A2%E2%80%A2%E2%80%A2" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:1A1B27&height=120&section=footer"/>
+</p>
