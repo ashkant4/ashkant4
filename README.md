@@ -70,18 +70,20 @@ I design interfaces that are:
 
 ---
 
-## 📊 GitHub Analytics
-
+<!-- GitHub Stats & Streak -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashkant4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkant4&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashkant4&show_icons=true&theme=radical&hide_border=true" />
+  
+  <!-- GitHub Streak -->
+  <img height="160" src="https://streak-stats.demolab.com?user=ashkant4&theme=radical&hide_border=true" />
 </p>
 
+<!-- GitHub Achievements / Trophies -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkant4&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashkant4&theme=radical&no-frame=true&row=1&column=5" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
