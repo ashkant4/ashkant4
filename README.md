@@ -65,7 +65,7 @@ I design interfaces that are:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashkant4&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashkant4&theme=darkhub&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
 
 ---
