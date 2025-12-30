@@ -126,5 +126,9 @@ I design interfaces that are:
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ashkant4/ashkant4/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1B27&height=120&section=footer"/>
 </p>
