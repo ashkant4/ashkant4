@@ -1,78 +1,100 @@
-<!-- ===================== -->
-<!--  GitHub Profile README -->
-<!--  Ashkan Agvan (ashkant4) -->
-<!-- ===================== -->
+<!-- ================================= -->
+<!--  GitHub Profile README - ashkant4 -->
+<!--  Engineered for Attraction & Trust -->
+<!-- ================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ashkan+Agvan;Front-End+Developer+with+UI+Focus;Building+Fast%2C+Clean+Web+Experiences;Code.+Design.+Performance." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=820&lines=%24+whoami;Ashkan+Agvan+%7C+Front-End+Engineer;%24+cat+mindset.txt;UI+Precision.+Performance.+Clarity.;%24+npm+run+build;Build+Completed+Without+Errors" />
 </p>
 
 ---
 
-<h1 align="center">🚀 Ashkan Agvan</h1>
-<h3 align="center">Front-End Developer | UI Enthusiast | Problem Solver</h3>
+<h1 align="center">Ashkan Agvan</h1>
+<h3 align="center">Front-End Developer • UI Engineer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashkant4&label=Profile%20Views&color=00E5FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ashkant4&label=Profile%20Views&color=00F7FF&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧭 Who Am I?
 
-<p>
-I’m <strong>Ashkan Agvan</strong>, a detail-oriented <strong>Front-End Developer</strong> who enjoys turning ideas into clean, responsive, and high-performance web interfaces.<br><br>
+I’m **Ashkan**, a front-end developer who treats UI like engineering — not decoration.
 
-I focus on:
-<ul>
-  <li>⚡ Fast & optimized UI</li>
-  <li>🎯 User-centered design</li>
-  <li>🧩 Clean, maintainable code</li>
-</ul>
+I design interfaces that are:
+- ⚡ Fast by default  
+- 🎯 Purpose-driven  
+- 🧩 Clean, scalable, and readable  
 
-<strong>Tech mindset:</strong> I don’t just write code — I solve problems.<br>
-<strong>English level:</strong> B2+ (Comfortable in technical communication)
+> I believe good UI is invisible — until it breaks.
+
+---
+
+## 🧪 Current Focus
+
+- Advanced UI architecture  
+- Performance-first front-end  
+- Design systems & component consistency  
+- Real-world problem solving  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,tailwind,bootstrap,git,github,figma&perline=5" />
 </p>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🚀 Featured Projects
+
+| Project | Description | Demo |
+|-------|------------|------|
+| **E-Commerce Platform** | Modern store UI, responsive & scalable | — |
+| **School Management System** | Dashboard-focused academic system | — |
+| **Verification System** | Secure validation workflows | — |
+| **iExpense** | Expense tracker web app | [Live](https://ashkant4.github.io/iExpense/) |
+| **Portfolio (EN)** | Personal portfolio | [Live](https://ashkant4.github.io/Portfolio/) |
+| **Portfolio (FA)** | Persian portfolio | [Live](https://ashkant4.github.io/Portfolio-FA/) |
+| **Weather App** | Real-time weather data | [Live](https://ashkant4.github.io/Weather-App/) |
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,figma&perline=5" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ashkant4&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🚧 Featured Projects
-
-| 🚀 Project | 💡 Description | 🔗 Demo |
-|-----------|---------------|--------|
-| **E-Commerce Platform** | Fully responsive store UI with modern layout & UX | — |
-| **School Management System** | Dashboard-based UI for academic data management | — |
-| **Verification System** | Secure validation & verification workflows | — |
-| **iExpense** | Expense tracking web app | [Live](https://ashkant4.github.io/iExpense/) |
-| **Portfolio (EN)** | Personal portfolio website | [Live](https://ashkant4.github.io/Portfolio/) |
-| **Weather App** | Real-time weather forecast app | [Live](https://ashkant4.github.io/Weather-App/) |
-| **Portfolio (FA)** | Persian portfolio version | [Live](https://ashkant4.github.io/Portfolio-FA/) |
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+npm+run+build;Compiling+modules...;Minifying+assets...;Deploying+to+production...;Status%3A+SUCCESS+%E2%9C%85;Still+online+%E2%80%A2%E2%80%A2%E2%80%A2" />
-</p>
----
-
-## 📊 GitHub Performance
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashkant4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkant4&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashkant4&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkant4&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkant4&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashkant4&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -93,23 +115,16 @@ I focus on:
 
 ---
 
-## 💬 Personal Motto
+## 🧠 Philosophy
 
-<p align="center">
-  <em>"Code is not just about working — it's about working beautifully."</em>
-</p>
+> “Clean code is not a luxury — it’s a responsibility.”
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories.
-</p>
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+clean+interfaces...;Optimizing+performance...;Solving+real+problems...;Always+learning...;Still+coding+%E2%80%A2%E2%80%A2%E2%80%A2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1600&pause=400&color=00F7FF&center=true&vCenter=true&width=750&lines=Still+building.;Still+learning.;Still+optimizing.;Always+shipping+better+code." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:1A1B27&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1B27&height=120&section=footer"/>
 </p>
